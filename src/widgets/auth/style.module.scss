@@ -1,0 +1,10 @@
+.tabs {
+    :global(.ant-tabs-ink-bar) {
+        border-radius: 20px 20px 0 0;
+        height: 4px !important;
+    }
+
+    :global(.ant-tabs-tab) {
+        flex: 0 0 160px;
+  }
+}

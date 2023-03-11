@@ -1,0 +1,1 @@
+export { ChoiceLocale } from "./choice-locale"
